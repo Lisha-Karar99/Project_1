@@ -4,10 +4,10 @@
   "description": "This is a to-do app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mohd Faizan Ahmed",
+  "author": "Lisha Karar",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.0",
